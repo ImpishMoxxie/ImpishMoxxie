@@ -1,27 +1,34 @@
-# 👋 Hey, I'm Moxxie
+<!-- Banner -->
+<p align="center">
+  <img src="https://github.com/ImpishMoxxie/ImpishMoxxie/blob/1734d837f709715178ea627dc8ac63ec731b6e7c/banner.png" alt="Moxxie - NOT a POSSUM!" width="100%">
+</p>
 
-> *Self-taught developer with a love for tinkering around with code.*
-
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Welcome%20to%20My%20GitHub&fontAlign=50&fontColor=ffffff&fontSize=30)
-
-## 🧑‍💻 About Me
-- 🎓 Self-taught and always learning.
-- 🛠️ Currently diving into: **TypeScript**, **JavaScript**, **Node.js**, **HTML**, and **CSS**.
-- 🚀 Looking to start something new soon.
-- ⚙️ Passionate about experimenting, building, and improving.
-- 📛 Pronouns: **He/Him**
+<!-- Fullwidth Header -->
+<h1 align="center">ＭＯＸＸＩＥ ＤＯＴ ＥＸＥ</h1>
+<p align="center"><i>Self-taught developer with a love for tinkering around with code.</i></p>
 
 ---
 
-## 📂 Notable Projects
-Here are a couple of things I've worked on or contributed to:
+## 🧠 About Me
 
-- [`🔊 soundboardlogger`](https://github.com/ImpishMoxxie/soundboardlogger): A tool designed to log soundboard activity efficiently, with flexibility for custom setups.
-- [`🔎 PR: Replace Google Search`](https://github.com/Vendicated/Vencord/pull/2450): A pull request submitted to Vencord, replacing default search with a custom alternative.
+- 🛠️ Currently learning: **TypeScript**, **JavaScript**, **Node.js**, **HTML**, **CSS**
+- 🌌 Exploring new project ideas to dive into soon
+- 🔧 Self-taught and always breaking & fixing stuff
+- 🧍 Pronouns: **He/Him**
 
 ---
 
-## 🌐 Connect with Me
+## 🚀 Projects
+
+- [`🔊 soundboardlogger`](https://github.com/ImpishMoxxie/soundboardlogger):  
+  Log and manage soundboard activity with style and efficiency.
+  
+- [`🔎 replacegooglesearch (PR)`](https://github.com/Vendicated/Vencord/pull/2450):  
+  A pull request for swapping out the default Google search behavior in Vencord.
+
+---
+
+## 🌐 Connect With Me
 
 [![Discord](https://img.shields.io/badge/Discord-ImpishMoxxie-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.com)
 [![Snapchat](https://img.shields.io/badge/Snapchat-ImpishMoxxie-FFFC00?style=flat&logo=snapchat&logoColor=black)](https://www.snapchat.com)
@@ -29,14 +36,20 @@ Here are a couple of things I've worked on or contributed to:
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ImpishMoxxie&show_icons=true&theme=tokyonight&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ImpishMoxxie&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImpishMoxxie&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ImpishMoxxie&layout=compact&theme=tokyonight&hide_border=true)
-
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=ImpishMoxxie&theme=tokyonight&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ImpishMoxxie&theme=tokyonight&hide_border=true" width="65%"/>
+</p>
 
 ---
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&fontAlign=50&fontColor=ffffff&fontSize=20&text=Thanks%20for%20visiting!)
+<!-- Footer -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer">
+</p>
